@@ -1,0 +1,13 @@
+const NL = [
+"120363400911374213","120363314571321104","120363186130999681",
+]
+
+const GI = [
+"C436XIXazTM4IZiM6sI1eR",
+"C2bY2mu8CVM7ifamW9o8HP"
+]
+
+module.exports = {
+    NL,
+    GI
+}
